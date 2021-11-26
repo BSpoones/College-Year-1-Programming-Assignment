@@ -8,7 +8,7 @@ A program to enter data and output data for any event
 """
 
 __title__ = "Competition program"
-__author__ = "Ben Soones"
+__author__ = "BSpoones"
 __version__ = "1.0.0"
 __copyright__ = "Copyright 2021-2026"
 
